@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b6fdacb2.css",
+    "main.js": "/static/js/main.e2936e1f.js",
+    "static/js/787.08864c67.chunk.js": "/static/js/787.08864c67.chunk.js",
+    "static/media/champagne.mp4": "/static/media/champagne.d6916612c414b5265b73.mp4",
+    "static/media/cave1.jpg": "/static/media/cave1.fe2bf0e860de5b9f898e.jpg",
+    "static/media/logo_chaput2.png": "/static/media/logo_chaput2.35002e504151cbabb7e3.png",
+    "static/media/brut-blanc-de-noirs-magnum.jpg": "/static/media/brut-blanc-de-noirs-magnum.090b7c788bac0af86e3d.jpg",
+    "index.html": "/index.html",
+    "main.b6fdacb2.css.map": "/static/css/main.b6fdacb2.css.map",
+    "main.e2936e1f.js.map": "/static/js/main.e2936e1f.js.map",
+    "787.08864c67.chunk.js.map": "/static/js/787.08864c67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6fdacb2.css",
+    "static/js/main.e2936e1f.js"
+  ]
+}
